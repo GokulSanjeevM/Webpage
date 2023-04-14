@@ -1,0 +1,53 @@
+.body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+#website_main .header .logo .logo1img .img {
+  width: 300px;
+  height: 250px;
+  margin: 0;
+}
+.main_list ul {
+  list-style: none;
+  display: flex;
+  text-transform: uppercase;
+  background-color: rgb(155, 95, 17);
+  border-bottom: 5px solid black;
+  margin: 0;
+}
+.main_list ul a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.main_list ul li {
+  padding: 10px 40px;
+  margin: 0px 20px;
+}
+.main_list ul li:hover {
+  color: brown;
+  background-color: black;
+}
+.content .contentimg .contentimg1 {
+  width: 100%;
+  height: 600px;
+}
+
+.footer_cont {
+  display: flex;
+  background-color: burlywood;
+  justify-content: space-around;
+}
+.content2 {
+  margin: 30px;
+  padding: 19px;
+  border: 5px solid rgb(186 117 27);
+}
+.form form label {
+  display: flex;
+}
+.form button {
+  display: flex;
+  border-radius: 15px;
+}
